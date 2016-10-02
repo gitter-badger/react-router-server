@@ -1,5 +1,7 @@
 # ![React Router Server](https://rawgit.com/gabrielbull/react-router-server/master/react-router-server2.svg "React Router Server")
 
+[![Join the chat at https://gitter.im/gabrielbull/react-router-server](https://badges.gitter.im/gabrielbull/react-router-server.svg)](https://gitter.im/gabrielbull/react-router-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/gabrielbull/react-router-server.svg?branch=master)](https://travis-ci.org/gabrielbull/react-router-server)
 [![Code Climate](https://codeclimate.com/github/gabrielbull/react-router-server/badges/gpa.svg)](https://codeclimate.com/github/gabrielbull/react-router-server)
 [![Dependency Status](https://david-dm.org/gabrielbull/react-router-server.svg)](https://david-dm.org/gabrielbull/react-router-server)
